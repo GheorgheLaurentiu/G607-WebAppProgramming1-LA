@@ -24,11 +24,12 @@ h1 {
 }
 
 .left {
-  background-color: black;
+  background-color: white;
 }
 
 .right {
-  background-color: red;
+  padding: 100px;
+  background-color: #e0e1d7;
 }
 
 .contact {
