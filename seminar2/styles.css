@@ -93,12 +93,12 @@ html {
 }
 
 .text-box-title {
-  align-self: flex-start;
+  display: flex;
+  align-self: center;
   margin: 3.5rem;
   margin-top: 3rem;
   font-size: 5rem;
   font-weight: 500;
-  display: flex;
 }
 
 .text-box-content {
